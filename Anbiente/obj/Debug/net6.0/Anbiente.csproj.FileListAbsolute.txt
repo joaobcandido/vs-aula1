@@ -1,0 +1,15 @@
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\bin\Debug\net6.0\Anbiente.exe
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\bin\Debug\net6.0\Anbiente.deps.json
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\bin\Debug\net6.0\Anbiente.runtimeconfig.json
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\bin\Debug\net6.0\Anbiente.dll
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\bin\Debug\net6.0\Anbiente.pdb
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.csproj.AssemblyReference.cache
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.AssemblyInfoInputs.cache
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.AssemblyInfo.cs
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.csproj.CoreCompileInputs.cache
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.dll
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\refint\Anbiente.dll
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.pdb
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\Anbiente.genruntimeconfig.cache
+C:\Users\joanj\Documents\ibrf_tech\Anbiente\Anbiente\obj\Debug\net6.0\ref\Anbiente.dll
